@@ -1,0 +1,14 @@
+F:\Application\Application.Repository\obj\Debug\Application.Repository.csprojResolveAssemblyReference.cache
+F:\Application\Application.Repository\bin\Debug\Application.Repository.dll.config
+F:\Application\Application.Repository\bin\Debug\Application.Repository.dll
+F:\Application\Application.Repository\bin\Debug\Application.Repository.pdb
+F:\Application\Application.Repository\bin\Debug\Application.Common.dll
+F:\Application\Application.Repository\bin\Debug\Application.Core.dll
+F:\Application\Application.Repository\bin\Debug\Application.DAL.dll
+F:\Application\Application.Repository\bin\Debug\EntityFramework.dll
+F:\Application\Application.Repository\bin\Debug\Application.Common.pdb
+F:\Application\Application.Repository\bin\Debug\EntityFramework.xml
+F:\Application\Application.Repository\obj\Debug\Application.Repository.dll
+F:\Application\Application.Repository\obj\Debug\Application.Repository.pdb
+F:\Application\Application.Repository\bin\Debug\Application.Core.pdb
+F:\Application\Application.Repository\bin\Debug\Application.DAL.pdb
