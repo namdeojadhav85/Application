@@ -29,8 +29,6 @@ namespace Application.Core.ProfileModule.ProfileAggregate
         public System.DateTime Updated { get; set; }
         public string UpdatedBy { get; set; }
 
-     
-
         #endregion Properties
 
         #region IValidatableObject Members

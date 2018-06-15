@@ -1,0 +1,4 @@
+F:\Application\Application.DTO\bin\Debug\Application.DTO.dll
+F:\Application\Application.DTO\bin\Debug\Application.DTO.pdb
+F:\Application\Application.DTO\obj\Debug\Application.DTO.dll
+F:\Application\Application.DTO\obj\Debug\Application.DTO.pdb

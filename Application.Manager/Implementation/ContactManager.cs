@@ -49,9 +49,7 @@ namespace Application.Manager.Implementation
 
             //recover profiles in paged fashion
             var profiles = _profileRepository.GetPaged<DateTime>(pageIndex, pageCount, o => o.Created, false);
-            if (profiles != null
-                &&
-                profiles.Any())
+            if (profiles != null && profiles.Any())
             {
                 List<ProfileDTO> lstProfileDTO = new List<ProfileDTO>();
                 foreach (var profile in profiles)
