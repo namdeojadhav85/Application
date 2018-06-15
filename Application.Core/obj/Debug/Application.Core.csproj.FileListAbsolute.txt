@@ -1,0 +1,9 @@
+F:\Application\Application.Core\bin\Debug\Application.Core.dll
+F:\Application\Application.Core\bin\Debug\Application.Core.pdb
+F:\Application\Application.Core\bin\Debug\Application.Common.dll
+F:\Application\Application.Core\bin\Debug\Application.Common.pdb
+F:\Application\Application.Core\obj\Debug\Application.Core.csprojResolveAssemblyReference.cache
+F:\Application\Application.Core\obj\Debug\Application.Core.Resources.Messages.resources
+F:\Application\Application.Core\obj\Debug\Application.Core.csproj.GenerateResource.Cache
+F:\Application\Application.Core\obj\Debug\Application.Core.dll
+F:\Application\Application.Core\obj\Debug\Application.Core.pdb

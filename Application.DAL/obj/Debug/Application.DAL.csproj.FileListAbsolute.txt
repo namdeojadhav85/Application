@@ -1,0 +1,14 @@
+F:\Application\Application.DAL\obj\Debug\Application.DAL.csprojResolveAssemblyReference.cache
+F:\Application\Application.DAL\obj\Debug\Application.DAL.Resources.Message.resources
+F:\Application\Application.DAL\obj\Debug\Application.DAL.csproj.GenerateResource.Cache
+F:\Application\Application.DAL\bin\Debug\Application.DAL.dll.config
+F:\Application\Application.DAL\bin\Debug\Application.DAL.dll
+F:\Application\Application.DAL\bin\Debug\Application.DAL.pdb
+F:\Application\Application.DAL\bin\Debug\Application.Common.dll
+F:\Application\Application.DAL\bin\Debug\Application.Core.dll
+F:\Application\Application.DAL\bin\Debug\EntityFramework.dll
+F:\Application\Application.DAL\bin\Debug\Application.Common.pdb
+F:\Application\Application.DAL\bin\Debug\EntityFramework.xml
+F:\Application\Application.DAL\obj\Debug\Application.DAL.dll
+F:\Application\Application.DAL\obj\Debug\Application.DAL.pdb
+F:\Application\Application.DAL\bin\Debug\Application.Core.pdb

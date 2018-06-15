@@ -1,0 +1,15 @@
+F:\Application\Application.Common\bin\Debug\Application.Common.dll
+F:\Application\Application.Common\bin\Debug\Application.Common.pdb
+F:\Application\Application.Common\bin\Debug\AutoMapper.dll
+F:\Application\Application.Common\bin\Debug\System.Net.Http.dll
+F:\Application\Application.Common\bin\Debug\System.Web.Http.dll
+F:\Application\Application.Common\bin\Debug\System.Net.Http.Formatting.dll
+F:\Application\Application.Common\bin\Debug\AutoMapper.xml
+F:\Application\Application.Common\bin\Debug\System.Net.Http.xml
+F:\Application\Application.Common\bin\Debug\System.Web.Http.xml
+F:\Application\Application.Common\bin\Debug\System.Net.Http.Formatting.xml
+F:\Application\Application.Common\obj\Debug\Application.Common.csprojResolveAssemblyReference.cache
+F:\Application\Application.Common\obj\Debug\Application.Common.Resources.Message.resources
+F:\Application\Application.Common\obj\Debug\Application.Common.csproj.GenerateResource.Cache
+F:\Application\Application.Common\obj\Debug\Application.Common.dll
+F:\Application\Application.Common\obj\Debug\Application.Common.pdb
